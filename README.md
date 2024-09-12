@@ -1,6 +1,7 @@
 # Profile Overview
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=percivalyan&theme=dark&layout=compact&card_width=500&langs_count=10)
+<br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=percivalyan&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
@@ -23,7 +24,7 @@
 <table>
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="80"/><br>Bootstrap</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1920px-Tailwind_CSS_logo.svg.png" alt="Tailwind CSS" width="80"/><br>Tailwind CSS</td>
+    <td align="center" style="background-color:white;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1920px-Tailwind_CSS_logo.svg.png" alt="Tailwind CSS" width="80"              style="background-color: white; padding: 10px;"/><br>Tailwind CSS</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="80"/><br>Laravel</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="80"/><br>React</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="80"/><br>Vue.js</td>
