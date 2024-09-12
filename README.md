@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="100"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_logo.svg" alt="Tailwind CSS" width="100"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Tailwind_CSS_logo.svg" alt="Tailwind CSS" width="100"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="100"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Vue.js_Logo.svg" alt="Vue.js" width="100"/></td>
