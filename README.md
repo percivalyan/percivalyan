@@ -25,11 +25,11 @@
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="60"/><br>Bootstrap</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1920px-Tailwind_CSS_logo.svg.png" alt="Tailwind CSS" width="60"/><br>Tailwind CSS</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="60"/><br>Laravel</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60"/><br>React</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="60"/><br>Vue.js</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="60"/><br>Angular</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/800px-Spring_Boot.svg.png" alt="Spring Boot" width="60"/><br>Spring Boot</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="60"/><br>Laravel</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="Jupyter" width="60"/><br>Jupyter</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/800px-Spring_Boot.svg.png" alt="Spring Boot" width="60"/><br>Spring Boot</td>
   </tr>
 </table>
