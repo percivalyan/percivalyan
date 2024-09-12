@@ -27,7 +27,7 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Vue.js_Logo.svg" alt="Vue.js" width="100"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="100"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Spring_Framework_Logo_2018.svg" alt="Spring Boot" width="100"/></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Google_Colab_logo.svg/1200px-Google_Colab_logo.svg.png" alt="Google Colab" width="100"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Google_Colab_logo.svg/1200px-Google_Colab_logo.svg.png" alt="Google Colab" width="100"/></td>
   </tr>
 </table>
 
